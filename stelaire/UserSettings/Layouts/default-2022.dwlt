@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -377,22 +377,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/blender import/texture Planete
+    - Assets/blender import/textures
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/blender import/texture Planete
+  - Assets/blender import/textures
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\maxim\OneDrive\Desktop\projet\stelaire
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea6c0000
-    m_LastClickedID: 27882
-    m_ExpandedIDs: 00000000925800009458000000ca9a3b
+    scrollPos: {x: 0, y: 39}
+    m_SelectedIDs: 66760000
+    m_LastClickedID: 30310
+    m_ExpandedIDs: 00000000aa580000ac580000ee78000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -420,7 +420,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009258000094580000
+    m_ExpandedIDs: 00000000aa580000ac580000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -445,8 +445,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: a0500000
-    m_LastClickedInstanceID: 20640
+    m_SelectedInstanceIDs: b6500000
+    m_LastClickedInstanceID: 20662
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000dc5000005a51000000000000
     m_RenameOverlay:
@@ -550,9 +550,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 46dcffff
+      m_SelectedIDs: 02c7ffff
       m_LastClickedID: 0
-      m_ExpandedIDs: 08fbffffa050000008510000
+      m_ExpandedIDs: 08fbffffb6500000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -857,9 +857,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 81.94159, y: 28.712555, z: -85.70786}
+    m_Target: {x: 96.30615, y: -4.835188, z: -65.17321}
     speed: 2
-    m_Value: {x: 81.94159, y: 28.712555, z: -85.70786}
+    m_Value: {x: 96.30615, y: -4.835188, z: -65.17321}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -905,13 +905,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.00032384746, y: -0.9970255, z: 0.07702539, w: -0.004191397}
+    m_Target: {x: -0.04191179, y: -0.9531674, z: 0.15636817, w: -0.25549334}
     speed: 2
-    m_Value: {x: -0.0003238458, y: -0.99702036, z: 0.077025, w: -0.004191376}
+    m_Value: {x: -0.041911528, y: -0.9531615, z: 0.1563672, w: -0.25549176}
   m_Size:
-    m_Target: 39.163258
+    m_Target: 21.79346
     speed: 2
-    m_Value: 39.163258
+    m_Value: 21.79346
   m_Ortho:
     m_Target: 0
     speed: 2

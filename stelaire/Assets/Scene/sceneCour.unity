@@ -2937,7 +2937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cameraVR: {fileID: 1679868203}
   cameraVRActive: 0
-  timeLimit: 5
+  timeLimit: 120
 --- !u!1 &1679868202
 GameObject:
   m_ObjectHideFlags: 0

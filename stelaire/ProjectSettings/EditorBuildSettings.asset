@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Samples/BrownianMotion.unity
     guid: c41be083a4b384075bffc207a039e7f5
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 02db79c3abbe34a438cc396ae9ef0729,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2b0925c5547504e439de28453e1d6478,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b47e54455b72cb849b6e9812ccac3dea,
+      type: 2}

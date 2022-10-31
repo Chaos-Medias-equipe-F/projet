@@ -9,7 +9,7 @@ public class CameraManager : MonoBehaviour
     public bool cameraVRActive = false;
 
     private float time = 0f;
-    [SerializeField] private float timeLimit = 5f;
+    [SerializeField] private float timeLimit = 120f;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,6 @@ public class CameraManager : MonoBehaviour
     void Update()
     {
         Timer();
-        Debug.Log(time + "sec");
     }
 
     public void SwitchCamera()
